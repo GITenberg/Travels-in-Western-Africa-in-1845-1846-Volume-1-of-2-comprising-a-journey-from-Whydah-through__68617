@@ -1,0 +1,35 @@
+_repo: Travels-in-Western-Africa-in-1845-1846-Volume-1-of-2-comprising-a-journey-from-Whydah-through__68617
+_version: 0.0.1
+alternative_title: "Travels in Western Africa in 1845 and 1846, Volume 1 (of 2)\r\n\
+  comprising a journey from Whydah through the Kingdom of Dahomey to Adofoodia in\
+  \ the interior"
+creator:
+  author:
+    agent_name: Duncan, John
+    birthdate: 1805
+    deathdate: 1849
+    gutenberg_agent_id: '54875'
+    url: http://www.gutenberg.org/2009/agents/54875
+    wikipedia: https://en.wikipedia.org/wiki/John_Duncan_(traveller_in_Africa)
+description: ''
+gutenberg_issued: '2022-07-28'
+identifiers:
+  gutenberg: '68617'
+language: en
+pgterms:marc905: 20211218160217duncan
+pgterms:marc906: '1847'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Richard Bentley,1847.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Africa, West -- Description and travel'
+- !lcsh 'Benin -- Description and travel'
+- GITenberg
+title: "Travels in Western Africa in 1845 & 1846, Volume 1 (of 2)\r\ncomprising a\
+  \ journey from Whydah through the Kingdom of Dahomey to Adofoodia in the interior"
+url: http://www.gutenberg.org/ebooks/68617
